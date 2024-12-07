@@ -31,7 +31,7 @@ def CanBeCalculated(result, numbersList):
 h = 0
 with open(TEXT_FILE) as f:
     for line in f:
-        print(float((h/850)*100), "%")
+        print(float((h/850)*100))
         line = line.replace("\n", "")
         lineSplit = line.split(":")
         numbers = str.strip(lineSplit[1]).split(" ")
