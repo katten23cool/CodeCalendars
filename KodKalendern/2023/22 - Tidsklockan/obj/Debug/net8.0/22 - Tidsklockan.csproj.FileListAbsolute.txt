@@ -1,0 +1,14 @@
+C:\Users\nomis\OneDrive\Kodkalenderr\KodKalendern\2023\22 - Tidsklockan\bin\Debug\net8.0\22 - Tidsklockan.exe
+C:\Users\nomis\OneDrive\Kodkalenderr\KodKalendern\2023\22 - Tidsklockan\bin\Debug\net8.0\22 - Tidsklockan.deps.json
+C:\Users\nomis\OneDrive\Kodkalenderr\KodKalendern\2023\22 - Tidsklockan\bin\Debug\net8.0\22 - Tidsklockan.runtimeconfig.json
+C:\Users\nomis\OneDrive\Kodkalenderr\KodKalendern\2023\22 - Tidsklockan\bin\Debug\net8.0\22 - Tidsklockan.dll
+C:\Users\nomis\OneDrive\Kodkalenderr\KodKalendern\2023\22 - Tidsklockan\bin\Debug\net8.0\22 - Tidsklockan.pdb
+C:\Users\nomis\OneDrive\Kodkalenderr\KodKalendern\2023\22 - Tidsklockan\obj\Debug\net8.0\22 - Tidsklockan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nomis\OneDrive\Kodkalenderr\KodKalendern\2023\22 - Tidsklockan\obj\Debug\net8.0\22 - Tidsklockan.AssemblyInfoInputs.cache
+C:\Users\nomis\OneDrive\Kodkalenderr\KodKalendern\2023\22 - Tidsklockan\obj\Debug\net8.0\22 - Tidsklockan.AssemblyInfo.cs
+C:\Users\nomis\OneDrive\Kodkalenderr\KodKalendern\2023\22 - Tidsklockan\obj\Debug\net8.0\22 - Tidsklockan.csproj.CoreCompileInputs.cache
+C:\Users\nomis\OneDrive\Kodkalenderr\KodKalendern\2023\22 - Tidsklockan\obj\Debug\net8.0\22 - Tidsklockan.dll
+C:\Users\nomis\OneDrive\Kodkalenderr\KodKalendern\2023\22 - Tidsklockan\obj\Debug\net8.0\refint\22 - Tidsklockan.dll
+C:\Users\nomis\OneDrive\Kodkalenderr\KodKalendern\2023\22 - Tidsklockan\obj\Debug\net8.0\22 - Tidsklockan.pdb
+C:\Users\nomis\OneDrive\Kodkalenderr\KodKalendern\2023\22 - Tidsklockan\obj\Debug\net8.0\22 - Tidsklockan.genruntimeconfig.cache
+C:\Users\nomis\OneDrive\Kodkalenderr\KodKalendern\2023\22 - Tidsklockan\obj\Debug\net8.0\ref\22 - Tidsklockan.dll

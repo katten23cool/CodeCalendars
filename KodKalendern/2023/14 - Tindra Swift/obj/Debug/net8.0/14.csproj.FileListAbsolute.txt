@@ -1,0 +1,28 @@
+C:\Users\EKOUS22003\OneDrive\Kodkalenderr\KodKalendern\2023\14\bin\Debug\net8.0\14.exe
+C:\Users\EKOUS22003\OneDrive\Kodkalenderr\KodKalendern\2023\14\bin\Debug\net8.0\14.deps.json
+C:\Users\EKOUS22003\OneDrive\Kodkalenderr\KodKalendern\2023\14\bin\Debug\net8.0\14.runtimeconfig.json
+C:\Users\EKOUS22003\OneDrive\Kodkalenderr\KodKalendern\2023\14\bin\Debug\net8.0\14.dll
+C:\Users\EKOUS22003\OneDrive\Kodkalenderr\KodKalendern\2023\14\bin\Debug\net8.0\14.pdb
+C:\Users\EKOUS22003\OneDrive\Kodkalenderr\KodKalendern\2023\14\obj\Debug\net8.0\14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EKOUS22003\OneDrive\Kodkalenderr\KodKalendern\2023\14\obj\Debug\net8.0\14.AssemblyInfoInputs.cache
+C:\Users\EKOUS22003\OneDrive\Kodkalenderr\KodKalendern\2023\14\obj\Debug\net8.0\14.AssemblyInfo.cs
+C:\Users\EKOUS22003\OneDrive\Kodkalenderr\KodKalendern\2023\14\obj\Debug\net8.0\14.csproj.CoreCompileInputs.cache
+C:\Users\EKOUS22003\OneDrive\Kodkalenderr\KodKalendern\2023\14\obj\Debug\net8.0\14.dll
+C:\Users\EKOUS22003\OneDrive\Kodkalenderr\KodKalendern\2023\14\obj\Debug\net8.0\refint\14.dll
+C:\Users\EKOUS22003\OneDrive\Kodkalenderr\KodKalendern\2023\14\obj\Debug\net8.0\14.pdb
+C:\Users\EKOUS22003\OneDrive\Kodkalenderr\KodKalendern\2023\14\obj\Debug\net8.0\14.genruntimeconfig.cache
+C:\Users\EKOUS22003\OneDrive\Kodkalenderr\KodKalendern\2023\14\obj\Debug\net8.0\ref\14.dll
+C:\Users\EKOUS22003\OneDrive\Kodkalenderr\KodKalendern\2023\14 - Tindra Swift\bin\Debug\net8.0\14.exe
+C:\Users\EKOUS22003\OneDrive\Kodkalenderr\KodKalendern\2023\14 - Tindra Swift\bin\Debug\net8.0\14.deps.json
+C:\Users\EKOUS22003\OneDrive\Kodkalenderr\KodKalendern\2023\14 - Tindra Swift\bin\Debug\net8.0\14.runtimeconfig.json
+C:\Users\EKOUS22003\OneDrive\Kodkalenderr\KodKalendern\2023\14 - Tindra Swift\bin\Debug\net8.0\14.dll
+C:\Users\EKOUS22003\OneDrive\Kodkalenderr\KodKalendern\2023\14 - Tindra Swift\bin\Debug\net8.0\14.pdb
+C:\Users\EKOUS22003\OneDrive\Kodkalenderr\KodKalendern\2023\14 - Tindra Swift\obj\Debug\net8.0\14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EKOUS22003\OneDrive\Kodkalenderr\KodKalendern\2023\14 - Tindra Swift\obj\Debug\net8.0\14.AssemblyInfoInputs.cache
+C:\Users\EKOUS22003\OneDrive\Kodkalenderr\KodKalendern\2023\14 - Tindra Swift\obj\Debug\net8.0\14.AssemblyInfo.cs
+C:\Users\EKOUS22003\OneDrive\Kodkalenderr\KodKalendern\2023\14 - Tindra Swift\obj\Debug\net8.0\14.csproj.CoreCompileInputs.cache
+C:\Users\EKOUS22003\OneDrive\Kodkalenderr\KodKalendern\2023\14 - Tindra Swift\obj\Debug\net8.0\14.dll
+C:\Users\EKOUS22003\OneDrive\Kodkalenderr\KodKalendern\2023\14 - Tindra Swift\obj\Debug\net8.0\refint\14.dll
+C:\Users\EKOUS22003\OneDrive\Kodkalenderr\KodKalendern\2023\14 - Tindra Swift\obj\Debug\net8.0\14.pdb
+C:\Users\EKOUS22003\OneDrive\Kodkalenderr\KodKalendern\2023\14 - Tindra Swift\obj\Debug\net8.0\14.genruntimeconfig.cache
+C:\Users\EKOUS22003\OneDrive\Kodkalenderr\KodKalendern\2023\14 - Tindra Swift\obj\Debug\net8.0\ref\14.dll

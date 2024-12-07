@@ -1,0 +1,7 @@
+C:\Users\EKOUS22003\OneDrive\Kodkallender\Kodkalendern\1\bin\Debug\1.exe.config
+C:\Users\EKOUS22003\OneDrive\Kodkallender\Kodkalendern\1\bin\Debug\1.exe
+C:\Users\EKOUS22003\OneDrive\Kodkallender\Kodkalendern\1\bin\Debug\1.pdb
+C:\Users\EKOUS22003\OneDrive\Kodkallender\Kodkalendern\1\obj\Debug\1.csproj.AssemblyReference.cache
+C:\Users\EKOUS22003\OneDrive\Kodkallender\Kodkalendern\1\obj\Debug\1.csproj.CoreCompileInputs.cache
+C:\Users\EKOUS22003\OneDrive\Kodkallender\Kodkalendern\1\obj\Debug\1.exe
+C:\Users\EKOUS22003\OneDrive\Kodkallender\Kodkalendern\1\obj\Debug\1.pdb

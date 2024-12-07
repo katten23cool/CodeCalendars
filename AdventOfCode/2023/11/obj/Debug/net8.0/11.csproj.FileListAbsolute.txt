@@ -1,0 +1,14 @@
+C:\Users\Simon\OneDrive\Kodkalenderr\AdventOfCode\2023\11\bin\Debug\net8.0\11.exe
+C:\Users\Simon\OneDrive\Kodkalenderr\AdventOfCode\2023\11\bin\Debug\net8.0\11.deps.json
+C:\Users\Simon\OneDrive\Kodkalenderr\AdventOfCode\2023\11\bin\Debug\net8.0\11.runtimeconfig.json
+C:\Users\Simon\OneDrive\Kodkalenderr\AdventOfCode\2023\11\bin\Debug\net8.0\11.dll
+C:\Users\Simon\OneDrive\Kodkalenderr\AdventOfCode\2023\11\bin\Debug\net8.0\11.pdb
+C:\Users\Simon\OneDrive\Kodkalenderr\AdventOfCode\2023\11\obj\Debug\net8.0\11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simon\OneDrive\Kodkalenderr\AdventOfCode\2023\11\obj\Debug\net8.0\11.AssemblyInfoInputs.cache
+C:\Users\Simon\OneDrive\Kodkalenderr\AdventOfCode\2023\11\obj\Debug\net8.0\11.AssemblyInfo.cs
+C:\Users\Simon\OneDrive\Kodkalenderr\AdventOfCode\2023\11\obj\Debug\net8.0\11.csproj.CoreCompileInputs.cache
+C:\Users\Simon\OneDrive\Kodkalenderr\AdventOfCode\2023\11\obj\Debug\net8.0\11.dll
+C:\Users\Simon\OneDrive\Kodkalenderr\AdventOfCode\2023\11\obj\Debug\net8.0\refint\11.dll
+C:\Users\Simon\OneDrive\Kodkalenderr\AdventOfCode\2023\11\obj\Debug\net8.0\11.pdb
+C:\Users\Simon\OneDrive\Kodkalenderr\AdventOfCode\2023\11\obj\Debug\net8.0\11.genruntimeconfig.cache
+C:\Users\Simon\OneDrive\Kodkalenderr\AdventOfCode\2023\11\obj\Debug\net8.0\ref\11.dll

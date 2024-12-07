@@ -1,0 +1,14 @@
+C:\Users\Simon\OneDrive\Kodkalenderr\AdventOfCode\2022\3\bin\Debug\net8.0\3.exe
+C:\Users\Simon\OneDrive\Kodkalenderr\AdventOfCode\2022\3\bin\Debug\net8.0\3.deps.json
+C:\Users\Simon\OneDrive\Kodkalenderr\AdventOfCode\2022\3\bin\Debug\net8.0\3.runtimeconfig.json
+C:\Users\Simon\OneDrive\Kodkalenderr\AdventOfCode\2022\3\bin\Debug\net8.0\3.dll
+C:\Users\Simon\OneDrive\Kodkalenderr\AdventOfCode\2022\3\bin\Debug\net8.0\3.pdb
+C:\Users\Simon\OneDrive\Kodkalenderr\AdventOfCode\2022\3\obj\Debug\net8.0\3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simon\OneDrive\Kodkalenderr\AdventOfCode\2022\3\obj\Debug\net8.0\3.AssemblyInfoInputs.cache
+C:\Users\Simon\OneDrive\Kodkalenderr\AdventOfCode\2022\3\obj\Debug\net8.0\3.AssemblyInfo.cs
+C:\Users\Simon\OneDrive\Kodkalenderr\AdventOfCode\2022\3\obj\Debug\net8.0\3.csproj.CoreCompileInputs.cache
+C:\Users\Simon\OneDrive\Kodkalenderr\AdventOfCode\2022\3\obj\Debug\net8.0\3.dll
+C:\Users\Simon\OneDrive\Kodkalenderr\AdventOfCode\2022\3\obj\Debug\net8.0\refint\3.dll
+C:\Users\Simon\OneDrive\Kodkalenderr\AdventOfCode\2022\3\obj\Debug\net8.0\3.pdb
+C:\Users\Simon\OneDrive\Kodkalenderr\AdventOfCode\2022\3\obj\Debug\net8.0\3.genruntimeconfig.cache
+C:\Users\Simon\OneDrive\Kodkalenderr\AdventOfCode\2022\3\obj\Debug\net8.0\ref\3.dll

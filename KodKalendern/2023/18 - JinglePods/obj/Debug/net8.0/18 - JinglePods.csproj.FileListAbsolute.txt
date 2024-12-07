@@ -1,0 +1,14 @@
+C:\Users\EKOUS22003\OneDrive\Kodkalenderr\KodKalendern\2023\18 - JinglePods\bin\Debug\net8.0\18 - JinglePods.exe
+C:\Users\EKOUS22003\OneDrive\Kodkalenderr\KodKalendern\2023\18 - JinglePods\bin\Debug\net8.0\18 - JinglePods.deps.json
+C:\Users\EKOUS22003\OneDrive\Kodkalenderr\KodKalendern\2023\18 - JinglePods\bin\Debug\net8.0\18 - JinglePods.runtimeconfig.json
+C:\Users\EKOUS22003\OneDrive\Kodkalenderr\KodKalendern\2023\18 - JinglePods\bin\Debug\net8.0\18 - JinglePods.dll
+C:\Users\EKOUS22003\OneDrive\Kodkalenderr\KodKalendern\2023\18 - JinglePods\bin\Debug\net8.0\18 - JinglePods.pdb
+C:\Users\EKOUS22003\OneDrive\Kodkalenderr\KodKalendern\2023\18 - JinglePods\obj\Debug\net8.0\18 - JinglePods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EKOUS22003\OneDrive\Kodkalenderr\KodKalendern\2023\18 - JinglePods\obj\Debug\net8.0\18 - JinglePods.AssemblyInfoInputs.cache
+C:\Users\EKOUS22003\OneDrive\Kodkalenderr\KodKalendern\2023\18 - JinglePods\obj\Debug\net8.0\18 - JinglePods.AssemblyInfo.cs
+C:\Users\EKOUS22003\OneDrive\Kodkalenderr\KodKalendern\2023\18 - JinglePods\obj\Debug\net8.0\18 - JinglePods.csproj.CoreCompileInputs.cache
+C:\Users\EKOUS22003\OneDrive\Kodkalenderr\KodKalendern\2023\18 - JinglePods\obj\Debug\net8.0\18 - JinglePods.dll
+C:\Users\EKOUS22003\OneDrive\Kodkalenderr\KodKalendern\2023\18 - JinglePods\obj\Debug\net8.0\refint\18 - JinglePods.dll
+C:\Users\EKOUS22003\OneDrive\Kodkalenderr\KodKalendern\2023\18 - JinglePods\obj\Debug\net8.0\18 - JinglePods.pdb
+C:\Users\EKOUS22003\OneDrive\Kodkalenderr\KodKalendern\2023\18 - JinglePods\obj\Debug\net8.0\18 - JinglePods.genruntimeconfig.cache
+C:\Users\EKOUS22003\OneDrive\Kodkalenderr\KodKalendern\2023\18 - JinglePods\obj\Debug\net8.0\ref\18 - JinglePods.dll

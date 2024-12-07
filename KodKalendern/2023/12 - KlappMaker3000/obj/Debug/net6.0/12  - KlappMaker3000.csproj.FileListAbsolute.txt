@@ -1,0 +1,14 @@
+C:\Users\EKOUS22003\OneDrive\Kodkalenderr\KodKalendern\2023\12\bin\Debug\net6.0\12  - KlappMaker3000.exe
+C:\Users\EKOUS22003\OneDrive\Kodkalenderr\KodKalendern\2023\12\bin\Debug\net6.0\12  - KlappMaker3000.deps.json
+C:\Users\EKOUS22003\OneDrive\Kodkalenderr\KodKalendern\2023\12\bin\Debug\net6.0\12  - KlappMaker3000.runtimeconfig.json
+C:\Users\EKOUS22003\OneDrive\Kodkalenderr\KodKalendern\2023\12\bin\Debug\net6.0\12  - KlappMaker3000.dll
+C:\Users\EKOUS22003\OneDrive\Kodkalenderr\KodKalendern\2023\12\bin\Debug\net6.0\12  - KlappMaker3000.pdb
+C:\Users\EKOUS22003\OneDrive\Kodkalenderr\KodKalendern\2023\12\obj\Debug\net6.0\12  - KlappMaker3000.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EKOUS22003\OneDrive\Kodkalenderr\KodKalendern\2023\12\obj\Debug\net6.0\12  - KlappMaker3000.AssemblyInfoInputs.cache
+C:\Users\EKOUS22003\OneDrive\Kodkalenderr\KodKalendern\2023\12\obj\Debug\net6.0\12  - KlappMaker3000.AssemblyInfo.cs
+C:\Users\EKOUS22003\OneDrive\Kodkalenderr\KodKalendern\2023\12\obj\Debug\net6.0\12  - KlappMaker3000.csproj.CoreCompileInputs.cache
+C:\Users\EKOUS22003\OneDrive\Kodkalenderr\KodKalendern\2023\12\obj\Debug\net6.0\12  - KlappMaker3000.dll
+C:\Users\EKOUS22003\OneDrive\Kodkalenderr\KodKalendern\2023\12\obj\Debug\net6.0\refint\12  - KlappMaker3000.dll
+C:\Users\EKOUS22003\OneDrive\Kodkalenderr\KodKalendern\2023\12\obj\Debug\net6.0\12  - KlappMaker3000.pdb
+C:\Users\EKOUS22003\OneDrive\Kodkalenderr\KodKalendern\2023\12\obj\Debug\net6.0\12  - KlappMaker3000.genruntimeconfig.cache
+C:\Users\EKOUS22003\OneDrive\Kodkalenderr\KodKalendern\2023\12\obj\Debug\net6.0\ref\12  - KlappMaker3000.dll

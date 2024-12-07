@@ -1,0 +1,14 @@
+C:\Users\EKOUS22003\OneDrive\Kodkalenderr\KodKalendern\2023\11 - Cykel-Siv\bin\Debug\net8.0\11.exe
+C:\Users\EKOUS22003\OneDrive\Kodkalenderr\KodKalendern\2023\11 - Cykel-Siv\bin\Debug\net8.0\11.deps.json
+C:\Users\EKOUS22003\OneDrive\Kodkalenderr\KodKalendern\2023\11 - Cykel-Siv\bin\Debug\net8.0\11.runtimeconfig.json
+C:\Users\EKOUS22003\OneDrive\Kodkalenderr\KodKalendern\2023\11 - Cykel-Siv\bin\Debug\net8.0\11.dll
+C:\Users\EKOUS22003\OneDrive\Kodkalenderr\KodKalendern\2023\11 - Cykel-Siv\bin\Debug\net8.0\11.pdb
+C:\Users\EKOUS22003\OneDrive\Kodkalenderr\KodKalendern\2023\11 - Cykel-Siv\obj\Debug\net8.0\11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EKOUS22003\OneDrive\Kodkalenderr\KodKalendern\2023\11 - Cykel-Siv\obj\Debug\net8.0\11.AssemblyInfoInputs.cache
+C:\Users\EKOUS22003\OneDrive\Kodkalenderr\KodKalendern\2023\11 - Cykel-Siv\obj\Debug\net8.0\11.AssemblyInfo.cs
+C:\Users\EKOUS22003\OneDrive\Kodkalenderr\KodKalendern\2023\11 - Cykel-Siv\obj\Debug\net8.0\11.csproj.CoreCompileInputs.cache
+C:\Users\EKOUS22003\OneDrive\Kodkalenderr\KodKalendern\2023\11 - Cykel-Siv\obj\Debug\net8.0\11.dll
+C:\Users\EKOUS22003\OneDrive\Kodkalenderr\KodKalendern\2023\11 - Cykel-Siv\obj\Debug\net8.0\refint\11.dll
+C:\Users\EKOUS22003\OneDrive\Kodkalenderr\KodKalendern\2023\11 - Cykel-Siv\obj\Debug\net8.0\11.pdb
+C:\Users\EKOUS22003\OneDrive\Kodkalenderr\KodKalendern\2023\11 - Cykel-Siv\obj\Debug\net8.0\11.genruntimeconfig.cache
+C:\Users\EKOUS22003\OneDrive\Kodkalenderr\KodKalendern\2023\11 - Cykel-Siv\obj\Debug\net8.0\ref\11.dll

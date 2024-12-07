@@ -1,0 +1,14 @@
+C:\Users\EKOUS22003\OneDrive\Kodkalenderr\KodKalendern\2023\12\bin\Debug\net6.0\12.exe
+C:\Users\EKOUS22003\OneDrive\Kodkalenderr\KodKalendern\2023\12\bin\Debug\net6.0\12.deps.json
+C:\Users\EKOUS22003\OneDrive\Kodkalenderr\KodKalendern\2023\12\bin\Debug\net6.0\12.runtimeconfig.json
+C:\Users\EKOUS22003\OneDrive\Kodkalenderr\KodKalendern\2023\12\bin\Debug\net6.0\12.dll
+C:\Users\EKOUS22003\OneDrive\Kodkalenderr\KodKalendern\2023\12\bin\Debug\net6.0\12.pdb
+C:\Users\EKOUS22003\OneDrive\Kodkalenderr\KodKalendern\2023\12\obj\Debug\net6.0\12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EKOUS22003\OneDrive\Kodkalenderr\KodKalendern\2023\12\obj\Debug\net6.0\12.AssemblyInfoInputs.cache
+C:\Users\EKOUS22003\OneDrive\Kodkalenderr\KodKalendern\2023\12\obj\Debug\net6.0\12.AssemblyInfo.cs
+C:\Users\EKOUS22003\OneDrive\Kodkalenderr\KodKalendern\2023\12\obj\Debug\net6.0\12.csproj.CoreCompileInputs.cache
+C:\Users\EKOUS22003\OneDrive\Kodkalenderr\KodKalendern\2023\12\obj\Debug\net6.0\12.dll
+C:\Users\EKOUS22003\OneDrive\Kodkalenderr\KodKalendern\2023\12\obj\Debug\net6.0\refint\12.dll
+C:\Users\EKOUS22003\OneDrive\Kodkalenderr\KodKalendern\2023\12\obj\Debug\net6.0\12.pdb
+C:\Users\EKOUS22003\OneDrive\Kodkalenderr\KodKalendern\2023\12\obj\Debug\net6.0\12.genruntimeconfig.cache
+C:\Users\EKOUS22003\OneDrive\Kodkalenderr\KodKalendern\2023\12\obj\Debug\net6.0\ref\12.dll

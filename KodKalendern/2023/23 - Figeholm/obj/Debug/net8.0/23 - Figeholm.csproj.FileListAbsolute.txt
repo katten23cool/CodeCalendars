@@ -1,0 +1,14 @@
+C:\Users\nomis\OneDrive\Kodkalenderr\KodKalendern\2023\23 - Figeholm\bin\Debug\net8.0\23 - Figeholm.exe
+C:\Users\nomis\OneDrive\Kodkalenderr\KodKalendern\2023\23 - Figeholm\bin\Debug\net8.0\23 - Figeholm.deps.json
+C:\Users\nomis\OneDrive\Kodkalenderr\KodKalendern\2023\23 - Figeholm\bin\Debug\net8.0\23 - Figeholm.runtimeconfig.json
+C:\Users\nomis\OneDrive\Kodkalenderr\KodKalendern\2023\23 - Figeholm\bin\Debug\net8.0\23 - Figeholm.dll
+C:\Users\nomis\OneDrive\Kodkalenderr\KodKalendern\2023\23 - Figeholm\bin\Debug\net8.0\23 - Figeholm.pdb
+C:\Users\nomis\OneDrive\Kodkalenderr\KodKalendern\2023\23 - Figeholm\obj\Debug\net8.0\23 - Figeholm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nomis\OneDrive\Kodkalenderr\KodKalendern\2023\23 - Figeholm\obj\Debug\net8.0\23 - Figeholm.AssemblyInfoInputs.cache
+C:\Users\nomis\OneDrive\Kodkalenderr\KodKalendern\2023\23 - Figeholm\obj\Debug\net8.0\23 - Figeholm.AssemblyInfo.cs
+C:\Users\nomis\OneDrive\Kodkalenderr\KodKalendern\2023\23 - Figeholm\obj\Debug\net8.0\23 - Figeholm.csproj.CoreCompileInputs.cache
+C:\Users\nomis\OneDrive\Kodkalenderr\KodKalendern\2023\23 - Figeholm\obj\Debug\net8.0\23 - Figeholm.dll
+C:\Users\nomis\OneDrive\Kodkalenderr\KodKalendern\2023\23 - Figeholm\obj\Debug\net8.0\refint\23 - Figeholm.dll
+C:\Users\nomis\OneDrive\Kodkalenderr\KodKalendern\2023\23 - Figeholm\obj\Debug\net8.0\23 - Figeholm.pdb
+C:\Users\nomis\OneDrive\Kodkalenderr\KodKalendern\2023\23 - Figeholm\obj\Debug\net8.0\23 - Figeholm.genruntimeconfig.cache
+C:\Users\nomis\OneDrive\Kodkalenderr\KodKalendern\2023\23 - Figeholm\obj\Debug\net8.0\ref\23 - Figeholm.dll
