@@ -7,6 +7,44 @@ inputList =[]
 startPositions = []
 scoreValues = {}
 
+def check_around_position(currentPosition, value, list):
+    templist = list
+    left = [-1 + currentPosition[0],currentPosition[1]]
+    right = [1 + currentPosition[0],currentPosition[1]]
+    up = [currentPosition[0],-1 + currentPosition[1]]
+    down = [currentPosition[0],1 + currentPosition[1]]
+
+    if value == 9:
+        #print(currentPosition)
+        scoreValues[currentPosition[0], currentPosition[1]] += 1
+
+    moveright = can_move_direction(right, value)
+    moveleft = can_move_direction(left, value)
+    moveup = can_move_direction(up, value)
+    movedown = can_move_direction(down, value)
+
+    if moveleft:
+        check_around_position(left, value+1, templist)
+    if moveright:
+        check_around_position(right, value+1, templist)
+    if moveup:
+        check_around_position(up, value+1, templist)
+    if movedown:
+        check_around_position(down, value+1, templist)
+    print(templist)
+
+def can_move_direction(currentPosition, value):
+    if  valid_position(currentPosition) and inputList[currentPosition[1]][currentPosition[0]] == value+1:
+        return True
+    else:
+        return False
+
+def valid_position(currentPosition):
+    if (currentPosition[1] < len(inputList) and currentPosition[0] < len(inputList[0])) and (currentPosition[0] > 0 and currentPosition[1] > 0):
+        return True
+    else:
+        return False
+
 
 with open(TEXT_FILE) as f:
     y = 0
@@ -28,4 +66,11 @@ for x in inputList:
 
 
 
+for startposition in startPositions:
+    print(startposition)
+    check_around_position(startposition, 0, [])
+
 print(scoreValues)
+
+
+
