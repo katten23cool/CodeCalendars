@@ -22,13 +22,10 @@ def check_around_position(currentPosition, value, start):
         newtemp[currentPosition[1]][currentPosition[0]] = "X"
         newtemp[start[1]][start[0]] += 1
         sasa = (currentPosition[0],currentPosition[1])
-        if sasa not in tempdict: #Ta bort denna om du vill a alla unika väger
+        if sasa not in tempdict: #Ta bort denna om du vill a alla unika värden
             tempdict[sasa] = 1
             scoreValues[start[0], start[1]] += 1
         return
-
-
-    #print(".", end="")
 
     moveright = can_move_direction(right, value)
     moveleft = can_move_direction(left, value)
