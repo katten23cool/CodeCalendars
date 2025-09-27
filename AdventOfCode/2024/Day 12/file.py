@@ -4,7 +4,7 @@ TEXT_FILE = ROOT_DIR / 'input.txt'
 
 dict = {}
 areas = []
-map = []
+Map = []
 class Area:
     def __init__(self, letter):
         self.letter = letter
@@ -32,20 +32,24 @@ with open(TEXT_FILE) as f:
         templ = []
         for c in line:
             templ.append(c)
-        map.append(templ)
+        Map.append(templ)
 
-print(map)
+print(Map)
 def checkbeside(area, position):
-    posX = [position[0] + 1, position[1]]
-    posY = [position[0], position[1]+ 1]
-    letterX = map[posX[0]][posX[1]]
-    letterY = map[posY[0]][posY[1]]
-    if letterX is area.letter:
-        area.addtodict(posX)
-        checkbeside(area, letterX)
-    if letterY is area.letter:
-        area.addtodict(posY)
-        checkbeside(area, letterY)
+    pos_x = (position[0] + 1, position[1])
+    pos_y = (position[0], position[1] + 1)
+    if pos_x[0] < len(Map[0]) and pos_x not in dict:
+        letterX = Map[pos_x[1]][pos_x[0]]
+        if letterX is area.letter:
+            dict[pos_x] = 1
+            area.addtodict(pos_x)
+            checkbeside(area, pos_x)
+    if pos_y[1] < len(Map) and pos_y not in dict:
+        letterY = Map[pos_y[1]][pos_y[0]]
+        if letterY is area.letter:
+            dict[pos_y] = 1
+            area.addtodict(pos_y)
+            checkbeside(area, pos_y)
 
 nb_areas = 0
 def findarea(letter, startpos): #then skip all of the same letters till you find another
@@ -54,6 +58,16 @@ def findarea(letter, startpos): #then skip all of the same letters till you find
 
     return area
 
-print(findarea("A", [0,0]).dict)
+x = 0
+y = 0
+for lst in Map:
+    x = 0
+    for ltr in lst:
+        rea = findarea(ltr, (x, y))
+        if len(rea.dict) > 0:
+            areas.append(rea)
+        x += 1
+    y += 1
 
-print(dict)
+for are in areas:
+    print(are.letter)
