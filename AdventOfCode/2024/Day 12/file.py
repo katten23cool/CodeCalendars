@@ -48,7 +48,7 @@ def checkbeside(area, position):
         checkbeside(area, letterY)
 
 nb_areas = 0
-def findarea(letter, startpos):
+def findarea(letter, startpos): #then skip all of the same letters till you find another
     area = Area(letter)
     checkbeside(area, startpos)
 
