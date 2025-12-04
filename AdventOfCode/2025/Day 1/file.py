@@ -24,31 +24,25 @@ with open(TEXT_FILE) as f:
         else:
             position += numer
             print(f"{startPosition}+{numer} =", end=" ")
-            0 + 444
 
-        i = 0
         while position < 0 or position > 99:
             if position < 0:
                 position = 100 + position
             if position > 99:
                 position = position - 100
-
-            if (startPosition != 0) and (position != 0) or abs(numer)> 100:
-                password2 += 1
                 print("---0---", end=" ")
-            i+=1
+
+                #yeah it donot eok
 
 
-
-        if position == 0 and abs(numer) < 100:
-            password += 1
+        if position == 0:
             password2 += 1
 
         print(position)
-        print(f"Password2: {password2}")  # Too high 6924, 5895. Close 4790, 5886
+        print(f"Password2: {password2}")
 
 
 print(f"Password: {password}")
-print(f"Password2: {password2}") #Too high 6924, 5895. Close 4790, 5886
+print(f"Password2: {password2}")
 
-#to test: 6072
+#answer: 5892
